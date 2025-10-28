@@ -38,4 +38,12 @@ This highlights how easily a model can be steered into biased decision-making.
 Open the notebook in Google Colab and run all cells in sequence.  
 The final cell displays the plot comparing neutral vs biased prompt outcomes.
 
+------------------------------------------------------------------------------------------------------------------
+
+Output Interpretation:
+The results show a clear difference between neutral and biased prompt conditions. Identical candidate profiles receive different suitability scores depending only on the framing of the prompt. This confirms that system prompts have a measurable influence on model bias and decision-making behavior.
+
+
+<img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/98293dec-efad-4e58-ae1c-c58d376a2c0b" />
+
 
