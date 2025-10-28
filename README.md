@@ -1,5 +1,5 @@
 # NLP
-# Mini Project: Position is Power – System Prompt Bias in Language Models
+# Mini Project: Influence of System Prompts on Gender Bias in Language Models
 
 This mini project investigates how system prompts can influence large language model decisions and introduce bias. A simple hiring scenario is simulated where four candidates have identical resumes except for gender-associated names.
 
